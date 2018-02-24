@@ -3,7 +3,7 @@
 <?php
 echo '
 
-<title>'Hello Kyms world'</title>;
+<title>'Hello Kyms world'</title>';
 ?>
 </head>
 <body>
